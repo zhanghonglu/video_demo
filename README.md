@@ -1,1 +1,4 @@
 # video_demo
+用JSP与javascipt实现
+demo.jsp为示例视频显示页面
+input_date.jsp为设置视频开放权限时间页面和测试视频页面
